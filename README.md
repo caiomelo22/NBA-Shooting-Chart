@@ -1,4 +1,4 @@
-# NBA-Shooting-Chart
+# NBA Shooting Chart
 Displays a shooting chart for a given NBA player in a season.
 
 # Description
